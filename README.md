@@ -122,13 +122,7 @@ The application showcases a complete roster management interface with:
 
 ---
 
-**Assignment Details**  
-**Student**: [Your Name]  
-**Course**: [Course Code & Name]  
-**Institution**: [University Name]  
-**Submission Date**: September 2025
 
-**Repository**: [GitHub URL will be added]
 
 ### `npm run build`
 
